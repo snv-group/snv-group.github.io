@@ -1,3 +1,3 @@
 User-agent: *
-Disallow: 
+Allow: /
 Sitemap: https://snv-group.github.io/sitemap.xml
